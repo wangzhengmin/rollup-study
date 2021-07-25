@@ -1,0 +1,14 @@
+{
+  "name": "rollup-demo1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "peerDependencies": {
+    "rollup": "^2.53.3"
+  },
+  "scripts": {
+    "build": "rollup --config rollup.config.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
